@@ -1,2 +1,7 @@
-# Morse-code-encoder-decoder
+# Morse code (encoder/decoder)
 Decode message to morse code and decode it from morse code ...
+
+usage: python3 MCED.py -m 'hi'
+<p align="center">
+  <img src="http://i.imgur.com/A07jBjK.png"/>
+</p>
