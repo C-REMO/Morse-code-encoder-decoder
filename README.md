@@ -1,5 +1,5 @@
 # Morse code (encoder/decoder)
-Decode message to morse code and decode it from morse code ...
+Encode message to morse code and decode it from morse code ...
 
 usage: python3 MCED.py -m 'hi'
 <p align="center">
